@@ -1,2 +1,2 @@
-# aphrodite-game-server
-eveyrthing that aphrodite has
+# ghost-game-server
+eveyrthing that ghost has
